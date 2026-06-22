@@ -30,5 +30,14 @@ A collection of LeetCode questions
 ## Counting Sort
 |  |
 | ------- |
+| [1297-maximum-number-of-balloons](https://github.com/AryanRaut14/DSA/tree/master/1297-maximum-number-of-balloons) |
 | [1961-maximum-ice-cream-bars](https://github.com/AryanRaut14/DSA/tree/master/1961-maximum-ice-cream-bars) |
+## Hash Table
+|  |
+| ------- |
+| [1297-maximum-number-of-balloons](https://github.com/AryanRaut14/DSA/tree/master/1297-maximum-number-of-balloons) |
+## String
+|  |
+| ------- |
+| [1297-maximum-number-of-balloons](https://github.com/AryanRaut14/DSA/tree/master/1297-maximum-number-of-balloons) |
 <!---LeetCode Topics End-->
