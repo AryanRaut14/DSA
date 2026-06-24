@@ -8,6 +8,7 @@ A collection of LeetCode questions
 | ------- |
 | [1446-angle-between-hands-of-a-clock](https://github.com/AryanRaut14/DSA/tree/master/1446-angle-between-hands-of-a-clock) |
 | [1968-maximum-building-height](https://github.com/AryanRaut14/DSA/tree/master/1968-maximum-building-height) |
+| [3964-number-of-zigzag-arrays-ii](https://github.com/AryanRaut14/DSA/tree/master/3964-number-of-zigzag-arrays-ii) |
 ## Array
 |  |
 | ------- |
@@ -49,4 +50,8 @@ A collection of LeetCode questions
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/AryanRaut14/DSA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Dynamic Programming
+|  |
+| ------- |
+| [3964-number-of-zigzag-arrays-ii](https://github.com/AryanRaut14/DSA/tree/master/3964-number-of-zigzag-arrays-ii) |
 <!---LeetCode Topics End-->
