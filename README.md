@@ -54,4 +54,8 @@ A collection of LeetCode questions
 |  |
 | ------- |
 | [3964-number-of-zigzag-arrays-ii](https://github.com/AryanRaut14/DSA/tree/master/3964-number-of-zigzag-arrays-ii) |
+## Database
+|  |
+| ------- |
+| [0584-find-customer-referee](https://github.com/AryanRaut14/DSA/tree/master/0584-find-customer-referee) |
 <!---LeetCode Topics End-->
