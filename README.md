@@ -15,10 +15,12 @@ A collection of LeetCode questions
 | [1833-find-the-highest-altitude](https://github.com/AryanRaut14/DSA/tree/master/1833-find-the-highest-altitude) |
 | [1961-maximum-ice-cream-bars](https://github.com/AryanRaut14/DSA/tree/master/1961-maximum-ice-cream-bars) |
 | [1968-maximum-building-height](https://github.com/AryanRaut14/DSA/tree/master/1968-maximum-building-height) |
+| [4074-count-subarrays-with-majority-element-i](https://github.com/AryanRaut14/DSA/tree/master/4074-count-subarrays-with-majority-element-i) |
 ## Prefix Sum
 |  |
 | ------- |
 | [1833-find-the-highest-altitude](https://github.com/AryanRaut14/DSA/tree/master/1833-find-the-highest-altitude) |
+| [4074-count-subarrays-with-majority-element-i](https://github.com/AryanRaut14/DSA/tree/master/4074-count-subarrays-with-majority-element-i) |
 ## Sorting
 |  |
 | ------- |
@@ -33,10 +35,12 @@ A collection of LeetCode questions
 | ------- |
 | [1297-maximum-number-of-balloons](https://github.com/AryanRaut14/DSA/tree/master/1297-maximum-number-of-balloons) |
 | [1961-maximum-ice-cream-bars](https://github.com/AryanRaut14/DSA/tree/master/1961-maximum-ice-cream-bars) |
+| [4074-count-subarrays-with-majority-element-i](https://github.com/AryanRaut14/DSA/tree/master/4074-count-subarrays-with-majority-element-i) |
 ## Hash Table
 |  |
 | ------- |
 | [1297-maximum-number-of-balloons](https://github.com/AryanRaut14/DSA/tree/master/1297-maximum-number-of-balloons) |
+| [4074-count-subarrays-with-majority-element-i](https://github.com/AryanRaut14/DSA/tree/master/4074-count-subarrays-with-majority-element-i) |
 ## String
 |  |
 | ------- |
@@ -63,4 +67,16 @@ A collection of LeetCode questions
 | [1258-article-views-i](https://github.com/AryanRaut14/DSA/tree/master/1258-article-views-i) |
 | [1509-replace-employee-id-with-the-unique-identifier](https://github.com/AryanRaut14/DSA/tree/master/1509-replace-employee-id-with-the-unique-identifier) |
 | [1827-invalid-tweets](https://github.com/AryanRaut14/DSA/tree/master/1827-invalid-tweets) |
+## Divide and Conquer
+|  |
+| ------- |
+| [4074-count-subarrays-with-majority-element-i](https://github.com/AryanRaut14/DSA/tree/master/4074-count-subarrays-with-majority-element-i) |
+## Segment Tree
+|  |
+| ------- |
+| [4074-count-subarrays-with-majority-element-i](https://github.com/AryanRaut14/DSA/tree/master/4074-count-subarrays-with-majority-element-i) |
+## Merge Sort
+|  |
+| ------- |
+| [4074-count-subarrays-with-majority-element-i](https://github.com/AryanRaut14/DSA/tree/master/4074-count-subarrays-with-majority-element-i) |
 <!---LeetCode Topics End-->
