@@ -13,6 +13,7 @@ A collection of LeetCode questions
 |  |
 | ------- |
 | [1833-find-the-highest-altitude](https://github.com/AryanRaut14/DSA/tree/master/1833-find-the-highest-altitude) |
+| [1956-maximum-element-after-decreasing-and-rearranging](https://github.com/AryanRaut14/DSA/tree/master/1956-maximum-element-after-decreasing-and-rearranging) |
 | [1961-maximum-ice-cream-bars](https://github.com/AryanRaut14/DSA/tree/master/1961-maximum-ice-cream-bars) |
 | [1968-maximum-building-height](https://github.com/AryanRaut14/DSA/tree/master/1968-maximum-building-height) |
 | [3299-find-the-maximum-number-of-elements-in-subset](https://github.com/AryanRaut14/DSA/tree/master/3299-find-the-maximum-number-of-elements-in-subset) |
@@ -25,11 +26,13 @@ A collection of LeetCode questions
 ## Sorting
 |  |
 | ------- |
+| [1956-maximum-element-after-decreasing-and-rearranging](https://github.com/AryanRaut14/DSA/tree/master/1956-maximum-element-after-decreasing-and-rearranging) |
 | [1961-maximum-ice-cream-bars](https://github.com/AryanRaut14/DSA/tree/master/1961-maximum-ice-cream-bars) |
 | [1968-maximum-building-height](https://github.com/AryanRaut14/DSA/tree/master/1968-maximum-building-height) |
 ## Greedy
 |  |
 | ------- |
+| [1956-maximum-element-after-decreasing-and-rearranging](https://github.com/AryanRaut14/DSA/tree/master/1956-maximum-element-after-decreasing-and-rearranging) |
 | [1961-maximum-ice-cream-bars](https://github.com/AryanRaut14/DSA/tree/master/1961-maximum-ice-cream-bars) |
 ## Counting Sort
 |  |
