@@ -16,6 +16,7 @@ A collection of LeetCode questions
 | [1956-maximum-element-after-decreasing-and-rearranging](https://github.com/AryanRaut14/DSA/tree/master/1956-maximum-element-after-decreasing-and-rearranging) |
 | [1961-maximum-ice-cream-bars](https://github.com/AryanRaut14/DSA/tree/master/1961-maximum-ice-cream-bars) |
 | [1968-maximum-building-height](https://github.com/AryanRaut14/DSA/tree/master/1968-maximum-building-height) |
+| [2099-number-of-strings-that-appear-as-substrings-in-word](https://github.com/AryanRaut14/DSA/tree/master/2099-number-of-strings-that-appear-as-substrings-in-word) |
 | [3299-find-the-maximum-number-of-elements-in-subset](https://github.com/AryanRaut14/DSA/tree/master/3299-find-the-maximum-number-of-elements-in-subset) |
 | [4074-count-subarrays-with-majority-element-i](https://github.com/AryanRaut14/DSA/tree/master/4074-count-subarrays-with-majority-element-i) |
 ## Prefix Sum
@@ -51,6 +52,7 @@ A collection of LeetCode questions
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/AryanRaut14/DSA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [1297-maximum-number-of-balloons](https://github.com/AryanRaut14/DSA/tree/master/1297-maximum-number-of-balloons) |
+| [2099-number-of-strings-that-appear-as-substrings-in-word](https://github.com/AryanRaut14/DSA/tree/master/2099-number-of-strings-that-appear-as-substrings-in-word) |
 ## Two Pointers
 |  |
 | ------- |
